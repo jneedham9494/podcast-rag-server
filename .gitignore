@@ -80,3 +80,6 @@ Thumbs.db
 
 # Keep metadata but ignore archive data
 data/archive/
+
+# Claude Code
+.claude/settings.local.json
