@@ -22,6 +22,15 @@ from .retry import (
     PERMANENT_HTTP_CODES,
 )
 
+from .shutdown import (
+    GracefulShutdown,
+    get_shutdown_handler,
+    should_shutdown,
+    request_shutdown,
+    WorkerProcess,
+    cleanup_lock_files,
+)
+
 __all__ = [
     # Validators
     'validate_podcast_name',
@@ -39,4 +48,11 @@ __all__ = [
     'TRANSIENT_EXCEPTIONS',
     'TRANSIENT_HTTP_CODES',
     'PERMANENT_HTTP_CODES',
+    # Shutdown utilities
+    'GracefulShutdown',
+    'get_shutdown_handler',
+    'should_shutdown',
+    'request_shutdown',
+    'WorkerProcess',
+    'cleanup_lock_files',
 ]
