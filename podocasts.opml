@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline type="rss" text="Jimquisition" xmlUrl="https://feed.podbean.com/jimquisition/feed.xml" />
+			<outline text="Block Stars with David Schwartz" xmlUrl="https://feeds.buzzsprout.com/938995.rss" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/finvshistory" text="Fin vs History" />
+			<outline text="I Like Films with Jonathan Ross" xmlUrl="https://audioboom.com/channels/4971939.rss" type="rss" />
+			<outline type="rss" text="Blowback" xmlUrl="https://feeds.megaphone.fm/ARML4460792039" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/61deed94f2acc80013aab8aa" type="rss" text="A Podcast Of Unnecessary Detail" />
+			<outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:672423809/sounds.rss" type="rss" text="TrueAnon" />
+			<outline text="Joshua Citarella" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:55959949/sounds.rss" />
+			<outline text="The Loud And Quiet Podcast" type="rss" xmlUrl="https://api.substack.com/feed/podcast/45221/s/163033.rss" />
+			<outline text="THE ADAM BUXTON PODCAST" xmlUrl="https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645" type="rss" />
+			<outline text="Odd Lots" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss" />
+			<outline text="My Friend Podcast with Paige Elkington with Ruby Caster" type="rss" xmlUrl="https://feeds.buzzsprout.com/664765.rss" />
+			<outline text="Chapo Trap House" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss" />
+			<outline type="rss" text="Fear&amp;" xmlUrl="https://feeds.megaphone.fm/QCD3550222091" />
+			<outline xmlUrl="http://www.hellointernet.fm/podcast?format=rss" type="rss" text="Hello Internet" />
+			<outline xmlUrl="https://raw.githubusercontent.com/yottalogical/hello-internet-archive/master/HelloInternetArchive.rss" type="rss" text="Hello Internet Archive" />
+			<outline text="The Missing Cryptoqueen" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p07nkd84.rss" />
+			<outline xmlUrl="https://anchor.fm/s/3b2be68/podcast/rss" text="Couples Therapy with Candice and Casey" type="rss" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/p089sfrz.rss" type="rss" text="Grounded with Louis Theroux" />
+			<outline type="rss" text="The Always Sunny Podcast" xmlUrl="https://feeds.megaphone.fm/TPC3838283892" />
+			<outline text="Sad Boyz" xmlUrl="https://feeds.megaphone.fm/SBL4453558297" type="rss" />
+			<outline type="rss" text="Cyber Hack" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtvg9.rss" />
+			<outline type="rss" text="Stephen Fry&apos;s 7 Deadly Sins" xmlUrl="https://feeds.acast.com/public/shows/c5991091-ef9c-4c8c-905c-4f66968ff6bd" />
+			<outline type="rss" text="TRUE ANON TRUTH FEED" xmlUrl="https://www.patreon.com/rss/TrueAnonPod?auth=u4Mg8CRw-MuQG_VOQpVyNVOnURwSzLc8&amp;show=875184" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/GLT1948741183" text="The Louis Theroux Podcast" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/7a3c5644-595b-4535-89cb-4df503953241" type="rss" text="Talking Politics: HISTORY OF IDEAS" />
+			<outline type="rss" text="The Adam Friedland Show Podcast" xmlUrl="https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/ab07fc49-2efc-4de6-92bf-b2e3011e17e9/f377cab3-e9e0-4dc2-8356-b2e3011e1800/podcast.rss" />
+			<outline text="Witch" xmlUrl="https://podcasts.files.bbci.co.uk/m001mc4p.rss" type="rss" />
+			<outline type="rss" text="Burn Wild" xmlUrl="https://podcasts.files.bbci.co.uk/p0cx6tw7.rss" />
+			<outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:171455110/sounds.rss" text="Infinite Hermit Podcasts" type="rss" />
+			<outline text="Bad Bets" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes" type="rss" />
+			<outline text="RHLSTP with Richard Herring" xmlUrl="https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/theyard" type="rss" text="The Yard" />
+			<outline xmlUrl="https://feeds.captivate.fm/multipolarity/" type="rss" text="Multipolarity" />
+			<outline text="Cox n&apos; Crendor Show" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:27399956/sounds.rss" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/73352696-5a2a-4de4-9f49-e2f0f5833c8b" type="rss" text="Say Why To Drugs" />
+			<outline type="rss" text="5CAST w/ Andrew Callaghan" xmlUrl="https://feeds.buzzsprout.com/2498614.rss" />
+			<outline text="Things Fell Apart" xmlUrl="https://podcasts.files.bbci.co.uk/m0011cpr.rss" type="rss" />
+		</outline>
+	</body>
+</opml>

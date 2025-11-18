@@ -1,0 +1,203 @@
+{
+  "generated_at": "2025-11-07T12:36:14.640040",
+  "total_podcasts": 39,
+  "successful": 39,
+  "failed": 0,
+  "podcasts": [
+    {
+      "podcast": "Jimquisition",
+      "episodes": 524,
+      "file": "podcast_metadata/Jimquisition.json"
+    },
+    {
+      "podcast": "Block Stars with David Schwartz",
+      "episodes": 28,
+      "file": "podcast_metadata/Block Stars with David Schwartz.json"
+    },
+    {
+      "podcast": "Fin vs History",
+      "episodes": 92,
+      "file": "podcast_metadata/Fin vs History.json"
+    },
+    {
+      "podcast": "I Like Films with Jonathan Ross",
+      "episodes": 16,
+      "file": "podcast_metadata/I Like Films with Jonathan Ross.json"
+    },
+    {
+      "podcast": "Blowback",
+      "episodes": 69,
+      "file": "podcast_metadata/Blowback.json"
+    },
+    {
+      "podcast": "A Podcast Of Unnecessary Detail",
+      "episodes": 26,
+      "file": "podcast_metadata/A Podcast Of Unnecessary Detail.json"
+    },
+    {
+      "podcast": "TrueAnon",
+      "episodes": 500,
+      "file": "podcast_metadata/TrueAnon.json"
+    },
+    {
+      "podcast": "Joshua Citarella",
+      "episodes": 138,
+      "file": "podcast_metadata/Joshua Citarella.json"
+    },
+    {
+      "podcast": "The Loud And Quiet Podcast",
+      "episodes": 12,
+      "file": "podcast_metadata/The Loud And Quiet Podcast.json"
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "episodes": 266,
+      "file": "podcast_metadata/THE ADAM BUXTON PODCAST.json"
+    },
+    {
+      "podcast": "Odd Lots",
+      "episodes": 1089,
+      "file": "podcast_metadata/Odd Lots.json"
+    },
+    {
+      "podcast": "My Friend Podcast with Paige Elkington with Ruby Caster",
+      "episodes": 18,
+      "file": "podcast_metadata/My Friend Podcast with Paige Elkington with Ruby Caster.json"
+    },
+    {
+      "podcast": "Chapo Trap House",
+      "episodes": 500,
+      "file": "podcast_metadata/Chapo Trap House.json"
+    },
+    {
+      "podcast": "Fear&",
+      "episodes": 171,
+      "file": "podcast_metadata/Fear&.json"
+    },
+    {
+      "podcast": "Hello Internet",
+      "episodes": 100,
+      "file": "podcast_metadata/Hello Internet.json"
+    },
+    {
+      "podcast": "The Missing Cryptoqueen",
+      "episodes": 13,
+      "file": "podcast_metadata/The Missing Cryptoqueen.json"
+    },
+    {
+      "podcast": "Couples Therapy with Candice and Casey",
+      "episodes": 20,
+      "file": "podcast_metadata/Couples Therapy with Candice and Casey.json"
+    },
+    {
+      "podcast": "Grounded with Louis Theroux",
+      "episodes": 22,
+      "file": "podcast_metadata/Grounded with Louis Theroux.json"
+    },
+    {
+      "podcast": "The Always Sunny Podcast",
+      "episodes": 78,
+      "file": "podcast_metadata/The Always Sunny Podcast.json"
+    },
+    {
+      "podcast": "Sad Boyz",
+      "episodes": 196,
+      "file": "podcast_metadata/Sad Boyz.json"
+    },
+    {
+      "podcast": "Cyber Hack",
+      "episodes": 28,
+      "file": "podcast_metadata/Cyber Hack.json"
+    },
+    {
+      "podcast": "Stephen Fry's 7 Deadly Sins",
+      "episodes": 17,
+      "file": "podcast_metadata/Stephen Fry's 7 Deadly Sins.json"
+    },
+    {
+      "podcast": "TRUE ANON TRUTH FEED",
+      "episodes": 557,
+      "file": "podcast_metadata/TRUE ANON TRUTH FEED.json"
+    },
+    {
+      "podcast": "The Louis Theroux Podcast",
+      "episodes": 51,
+      "file": "podcast_metadata/The Louis Theroux Podcast.json"
+    },
+    {
+      "podcast": "Talking Politics: HISTORY OF IDEAS",
+      "episodes": 27,
+      "file": "podcast_metadata/Talking Politics HISTORY OF IDEAS.json"
+    },
+    {
+      "podcast": "The Adam Friedland Show Podcast",
+      "episodes": 457,
+      "file": "podcast_metadata/The Adam Friedland Show Podcast.json"
+    },
+    {
+      "podcast": "Monday Morning Podcast",
+      "episodes": 1336,
+      "file": "podcast_metadata/Monday Morning Podcast.json"
+    },
+    {
+      "podcast": "Witch",
+      "episodes": 14,
+      "file": "podcast_metadata/Witch.json"
+    },
+    {
+      "podcast": "Burn Wild",
+      "episodes": 10,
+      "file": "podcast_metadata/Burn Wild.json"
+    },
+    {
+      "podcast": "Infinite Hermit Podcasts",
+      "episodes": 0,
+      "file": "podcast_metadata/Infinite Hermit Podcasts.json"
+    },
+    {
+      "podcast": "Bad Bets",
+      "episodes": 16,
+      "file": "podcast_metadata/Bad Bets.json"
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "episodes": 1563,
+      "file": "podcast_metadata/Arseblog Arsecast, The Arsenal Podcast.json"
+    },
+    {
+      "podcast": "RHLSTP with Richard Herring",
+      "episodes": 982,
+      "file": "podcast_metadata/RHLSTP with Richard Herring.json"
+    },
+    {
+      "podcast": "The Yard",
+      "episodes": 228,
+      "file": "podcast_metadata/The Yard.json"
+    },
+    {
+      "podcast": "Multipolarity",
+      "episodes": 151,
+      "file": "podcast_metadata/Multipolarity.json"
+    },
+    {
+      "podcast": "Cox n' Crendor Show",
+      "episodes": 485,
+      "file": "podcast_metadata/Cox n' Crendor Show.json"
+    },
+    {
+      "podcast": "Say Why To Drugs",
+      "episodes": 50,
+      "file": "podcast_metadata/Say Why To Drugs.json"
+    },
+    {
+      "podcast": "5CAST w/ Andrew Callaghan",
+      "episodes": 16,
+      "file": "podcast_metadata/5CAST w Andrew Callaghan.json"
+    },
+    {
+      "podcast": "Things Fell Apart",
+      "episodes": 22,
+      "file": "podcast_metadata/Things Fell Apart.json"
+    }
+  ]
+}

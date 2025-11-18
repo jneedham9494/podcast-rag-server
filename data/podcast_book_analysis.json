@@ -1,0 +1,4420 @@
+{
+  "podcasts": {
+    "Arseblog Arsecast, The Arsenal Podcast": {
+      "total_episodes": 1563,
+      "episodes_with_books": 63,
+      "episodes_with_guests": 16,
+      "book_density_pct": 4.0,
+      "guest_density_pct": 1.0,
+      "avg_book_score": 0.05,
+      "top_episodes": [
+        {
+          "title": "Episode 748 - On this day",
+          "published": "Thu, 31 Aug 2023 11:28:43 GMT",
+          "duration": "53:33",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Arsenal Women Arsecast Episode 47: Suitable for Females",
+          "published": "Tue, 19 Jul 2022 13:28:49 GMT",
+          "duration": "58:03",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Arsecast Extra Episode 305 - 11.09.2019",
+          "published": "Wed, 11 Sep 2019 09:12:48 GMT",
+          "duration": "1:23:08",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "iography"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 518 - Worse than Omsk",
+          "published": "Fri, 22 Mar 2019 04:01:00 GMT",
+          "duration": "50:22",
+          "guests": [],
+          "book_keywords": [
+            "ook called",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 505 - Listen",
+          "published": "Fri, 14 Dec 2018 09:26:18 GMT",
+          "duration": "1:12:47",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 500 - El Maestro",
+          "published": "Tue, 06 Nov 2018 14:50:37 GMT",
+          "duration": "54:00",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 489 - Alan Smith",
+          "published": "Fri, 24 Aug 2018 05:02:21 GMT",
+          "duration": "51:02",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "wrote"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 436 - Billionaires",
+          "published": "Tue, 29 Aug 2017 04:30:00 GMT",
+          "duration": "46:08",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Arseblog Arsecast Episode 322 - Oh danny boy ...",
+          "published": "Fri, 12 Sep 2014 00:00:00 GMT",
+          "duration": "51:11",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 852 - The corner flag dancer",
+          "published": "Wed, 05 Nov 2025 12:29:31 GMT",
+          "duration": "59:43",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Joshua Citarella": {
+      "total_episodes": 138,
+      "episodes_with_books": 26,
+      "episodes_with_guests": 26,
+      "book_density_pct": 18.8,
+      "guest_density_pct": 18.8,
+      "avg_book_score": 0.22,
+      "top_episodes": [
+        {
+          "title": "Doomscroll 25: Francis Fukuyama",
+          "published": "Thu, 17 Jul 2025 10:00:18 +0000",
+          "duration": "00:55:28",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "wrote"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 23: Catherine Liu",
+          "published": "Mon, 16 Jun 2025 10:00:23 +0000",
+          "duration": "01:20:07",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 22: Jen Pan",
+          "published": "Mon, 02 Jun 2025 10:00:56 +0000",
+          "duration": "01:03:16",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 18: Ezra Klein",
+          "published": "Sun, 06 Apr 2025 00:00:00 +0000",
+          "duration": "00:55:29",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "ook titled"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Amber A’Lee Frost on Dirtbag",
+          "published": "Tue, 19 Dec 2023 12:00:07 +0000",
+          "duration": "01:01:59",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 33: Taylor Lorenz",
+          "published": "Mon, 20 Oct 2025 10:00:44 +0000",
+          "duration": "00:57:34",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 24: Hasan Piker",
+          "published": "Tue, 01 Jul 2025 10:00:49 +0000",
+          "duration": "01:08:27",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 22.5: Jen Pan",
+          "published": "Mon, 09 Jun 2025 10:00:25 +0000",
+          "duration": "00:11:46",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 20: Vivek Chibber",
+          "published": "Mon, 05 May 2025 10:30:12 +0000",
+          "duration": "01:10:56",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 15: Quinn Slobodian",
+          "published": "Wed, 19 Feb 2025 00:00:00 +0000",
+          "duration": "01:16:36",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Things Fell Apart": {
+      "total_episodes": 22,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 3,
+      "book_density_pct": 4.5,
+      "guest_density_pct": 13.6,
+      "avg_book_score": 0.09,
+      "top_episodes": [
+        {
+          "title": "S2. Ep 7: You’ll Own Nothing and You’ll Be Happy",
+          "published": "Tue, 09 Jan 2024 06:00:00 +0000",
+          "duration": "2004",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        }
+      ]
+    },
+    "5CAST w/ Andrew Callaghan": {
+      "total_episodes": 16,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 10,
+      "book_density_pct": 6.2,
+      "guest_density_pct": 62.5,
+      "avg_book_score": 0.06,
+      "top_episodes": [
+        {
+          "title": "Hallucinogen Persisting Perception Disorder - 5CAST with Andrew Callaghan (#4) feat. Dr. Wesley Ryan",
+          "published": "Sun, 04 May 2025 12:00:00 -0700",
+          "duration": "4096",
+          "guests": [
+            "Hallucinogen Persisting Perception Disorder",
+            "Andrew Callaghan"
+          ],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    "Say Why To Drugs": {
+      "total_episodes": 50,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 10,
+      "book_density_pct": 4.0,
+      "guest_density_pct": 20.0,
+      "avg_book_score": 0.06,
+      "top_episodes": [
+        {
+          "title": "Talking with your family about drugs - Live at Latitude 2021",
+          "published": "Thu, 09 Dec 2021 00:05:28 GMT",
+          "duration": "31:34",
+          "guests": [],
+          "book_keywords": [
+            "ook called",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Mescaline, with Mike Jay",
+          "published": "Wed, 05 Jun 2019 23:01:00 GMT",
+          "duration": "23:24",
+          "guests": [
+            "Mike Jay"
+          ],
+          "book_keywords": [
+            "ook called"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    "The Yard": {
+      "total_episodes": 228,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 9,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 3.9,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "TRUE ANON TRUTH FEED": {
+      "total_episodes": 557,
+      "episodes_with_books": 30,
+      "episodes_with_guests": 4,
+      "book_density_pct": 5.4,
+      "guest_density_pct": 0.7,
+      "avg_book_score": 0.06,
+      "top_episodes": [
+        {
+          "title": "Episode 447: Smiley’s Person",
+          "published": "Mon, 31 Mar 2025 13:19:07 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 246: Deep State 102",
+          "published": "Wed, 24 Aug 2022 21:40:34 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 496: Money for Nothing",
+          "published": "Mon, 13 Oct 2025 15:04:34 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Seth Harp & The Fort Bragg Cartel [LIVE]",
+          "published": "Fri, 15 Aug 2025 21:10:03 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 459: Opus D.E.I.",
+          "published": "Thu, 15 May 2025 13:46:26 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 456: Multilevel Marketing Madness",
+          "published": "Mon, 05 May 2025 12:08:22 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 453: Luddite Power Manifesto",
+          "published": "Mon, 21 Apr 2025 13:25:13 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 397: The Hunt for Frank Wisner",
+          "published": "Thu, 01 Aug 2024 14:24:23 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 349: State of Play",
+          "published": "Mon, 29 Jan 2024 15:31:59 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 348: Life Stinks",
+          "published": "Thu, 25 Jan 2024 14:39:12 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Cyber Hack": {
+      "total_episodes": 28,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 4,
+      "book_density_pct": 3.6,
+      "guest_density_pct": 14.3,
+      "avg_book_score": 0.04,
+      "top_episodes": [
+        {
+          "title": "The Lazarus Heist S2: 6. False flags",
+          "published": "Sun, 30 Apr 2023 23:30:00 +0000",
+          "duration": "2246",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Stephen Fry's 7 Deadly Sins": {
+      "total_episodes": 17,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "The Adam Friedland Show Podcast": {
+      "total_episodes": 457,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 81,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 17.7,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "I Like Films with Jonathan Ross": {
+      "total_episodes": 16,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 0,
+      "book_density_pct": 12.5,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.12,
+      "top_episodes": [
+        {
+          "title": "13: Roddy Doyle",
+          "published": "Tue, 12 Mar 2019 16:14:00 +0000",
+          "duration": "2190",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "8: M. Night Shyamalan",
+          "published": "Wed, 23 Jan 2019 17:24:53 +0000",
+          "duration": "2040",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "The Loud And Quiet Podcast": {
+      "total_episodes": 12,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 4,
+      "book_density_pct": 8.3,
+      "guest_density_pct": 33.3,
+      "avg_book_score": 0.08,
+      "top_episodes": [
+        {
+          "title": "Finn Wolfhard: a life of music before and after Stranger Things",
+          "published": "Mon, 26 May 2025 23:00:51 GMT",
+          "duration": "1324",
+          "guests": [
+            "Finn Wolfhard"
+          ],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    "The Missing Cryptoqueen": {
+      "total_episodes": 13,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Couples Therapy with Candice and Casey": {
+      "total_episodes": 20,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 1,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 5.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "The Louis Theroux Podcast": {
+      "total_episodes": 51,
+      "episodes_with_books": 5,
+      "episodes_with_guests": 12,
+      "book_density_pct": 9.8,
+      "guest_density_pct": 23.5,
+      "avg_book_score": 0.12,
+      "top_episodes": [
+        {
+          "title": "S1 EP6: Jennette McCurdy discusses child stardom and her memoir 'I'm Glad My Mom Died'",
+          "published": "Mon, 10 Jul 2023 23:01:00 -0000",
+          "duration": "4460",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "S5 EP3: Bryan Johnson discusses life-changing psychedelics, superintelligence, and night-time erections",
+          "published": "Mon, 19 May 2025 23:26:00 -0000",
+          "duration": "5143",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "S2 EP8: Sharon Stone discusses facing off with Robert Mugabe, lifting weights with Arnold Schwarzenegger, and her calamitous dating app experiences.",
+          "published": "Tue, 12 Mar 2024 00:00:00 -0000",
+          "duration": "4863",
+          "guests": [
+            "Robert Mugabe",
+            "Arnold Schwarzenegger"
+          ],
+          "book_keywords": [
+            "memoir"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "S1 EP9: Ben Elton on ‘cancel culture’, his early stand up career, and writing for Blackadder and The Young Ones",
+          "published": "Mon, 31 Jul 2023 23:01:00 -0000",
+          "duration": "4716",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "S1 EP5: Nick Cave on his remarkable career, religion and dealing with grief",
+          "published": "Mon, 03 Jul 2023 23:01:00 -0000",
+          "duration": "5006",
+          "guests": [],
+          "book_keywords": [
+            "iography"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "My Friend Podcast with Paige Elkington with Ruby Caster": {
+      "total_episodes": 18,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 8,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 44.4,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Sad Boyz": {
+      "total_episodes": 196,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 1,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.5,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Cox n' Crendor Show": {
+      "total_episodes": 485,
+      "episodes_with_books": 6,
+      "episodes_with_guests": 0,
+      "book_density_pct": 1.2,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "pisode 469 - The Robot Leagues Begin!",
+          "published": "Mon, 30 Jun 2025 00:40:08 +0000",
+          "duration": "01:26:16",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 453 - Into the Garfieldverse",
+          "published": "Sun, 19 Jan 2025 00:00:00 +0000",
+          "duration": "01:32:36",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 417 - Neal the Seal",
+          "published": "Sun, 03 Mar 2024 21:59:06 +0000",
+          "duration": "01:11:37",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 125 - Crab People Politics",
+          "published": "Sun, 16 Oct 2016 18:14:48 +0000",
+          "duration": "00:44:42",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 107 - Worlds Greatest Italian Restaurant",
+          "published": "Wed, 15 Jul 2015 00:04:59 +0000",
+          "duration": "00:37:29",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Cox N' Crendor Beta: Wednesday, January 9th 2013",
+          "published": "Wed, 09 Jan 2013 18:01:29 +0000",
+          "duration": "00:30:25",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Block Stars with David Schwartz": {
+      "total_episodes": 28,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 6,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 21.4,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Witch": {
+      "total_episodes": 14,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "THE ADAM BUXTON PODCAST": {
+      "total_episodes": 266,
+      "episodes_with_books": 41,
+      "episodes_with_guests": 0,
+      "book_density_pct": 15.4,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.19,
+      "top_episodes": [
+        {
+          "title": "EP.94 - NINA STIBBE",
+          "published": "Sat, 25 May 2019 17:48:31 GMT",
+          "duration": "1:17:37",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "wrote",
+            "writing"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "EP.230 - COLM TÓIBÍN",
+          "published": "Fri, 25 Oct 2024 23:00:51 GMT",
+          "duration": "1:07:52",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.213 - WILL SHARPE",
+          "published": "Tue, 14 Nov 2023 15:37:42 GMT",
+          "duration": "1:11:20",
+          "guests": [],
+          "book_keywords": [
+            "memoir",
+            "essay"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.190 - IAN McEWAN",
+          "published": "Sun, 16 Oct 2022 21:36:45 GMT",
+          "duration": "1:29:09",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.184 - LOUIS THEROUX",
+          "published": "Sun, 17 Jul 2022 12:58:47 GMT",
+          "duration": "1:23:27",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.171 - CALLOUT FOR XMAS PODCAST SUBMISSIONS AND A BIT OF FRAN LEBOWITZ",
+          "published": "Tue, 07 Dec 2021 16:45:10 GMT",
+          "duration": "34:35",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.164 - COLSON WHITEHEAD",
+          "published": "Sun, 10 Oct 2021 16:17:31 GMT",
+          "duration": "1:05:03",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.102 - PHILIP PULLMAN",
+          "published": "Fri, 04 Oct 2019 18:39:47 GMT",
+          "duration": "1:21:58",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "iography"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.4 - JON RONSON",
+          "published": "Wed, 07 Oct 2015 15:06:41 GMT",
+          "duration": "58:42",
+          "guests": [],
+          "book_keywords": [
+            "latest book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.263 - ZADIE SMITH",
+          "published": "Sun, 02 Nov 2025 09:00:00 GMT",
+          "duration": "1:14:07",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Chapo Trap House": {
+      "total_episodes": 500,
+      "episodes_with_books": 37,
+      "episodes_with_guests": 15,
+      "book_density_pct": 7.4,
+      "guest_density_pct": 3.0,
+      "avg_book_score": 0.08,
+      "top_episodes": [
+        {
+          "title": "947 - Laugh Now, Cry Later feat. Larry Charles (6/30/25)",
+          "published": "Tue, 01 Jul 2025 06:28:10 +0000",
+          "duration": "01:35:37",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "706 - Arrival (2/13/23)",
+          "published": "Tue, 14 Feb 2023 03:39:35 +0000",
+          "duration": "01:14:49",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "essay"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Bonus: Exit Through the Gas Chamber feat. Jerry Stahl",
+          "published": "Wed, 24 Aug 2022 23:42:06 +0000",
+          "duration": "00:50:54",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "977 - The Next Day feat. Ryan Grim and Jeremy Scahill",
+          "published": "Tue, 14 Oct 2025 01:00:13 +0000",
+          "duration": "01:28:05",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "973 - Cross on the Moon feat. Brendan James (9/29/25)",
+          "published": "Tue, 30 Sep 2025 01:00:25 +0000",
+          "duration": "01:37:40",
+          "guests": [],
+          "book_keywords": [
+            "novel"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "961 - The Dogs of War feat. Seth Harp (8/18/25)",
+          "published": "Tue, 19 Aug 2025 05:16:45 +0000",
+          "duration": "01:33:17",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "957 - Democracy Soon! feat. Osita Nwanevu (8/4/25)",
+          "published": "Tue, 05 Aug 2025 05:44:33 +0000",
+          "duration": "01:02:47",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "927 - Americas, The Beautiful feat. Greg Grandin (4/21/25)",
+          "published": "Tue, 22 Apr 2025 06:51:20 +0000",
+          "duration": "01:25:39",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Bonus: Ukrainian Politics Deep Dive feat. Peter Korotaev",
+          "published": "Wed, 02 Apr 2025 00:00:00 +0000",
+          "duration": "02:02:01",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "BONUS: Y2K feat. Colette Shade",
+          "published": "Tue, 14 Jan 2025 20:43:16 +0000",
+          "duration": "01:06:02",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Talking Politics: HISTORY OF IDEAS": {
+      "total_episodes": 27,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 1,
+      "book_density_pct": 7.4,
+      "guest_density_pct": 3.7,
+      "avg_book_score": 0.07,
+      "top_episodes": [
+        {
+          "title": "Luxemburg on Revolution",
+          "published": "Tue, 09 Mar 2021 08:45:11 GMT",
+          "duration": "46:00",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Bentham on Pleasure",
+          "published": "Tue, 09 Feb 2021 08:30:00 GMT",
+          "duration": "47:35",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Hello Internet": {
+      "total_episodes": 100,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 1,
+      "book_density_pct": 1.0,
+      "guest_density_pct": 1.0,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "H.I. #66: A Classic Episode",
+          "published": "Mon, 18 Jul 2016 23:19:02 +0000",
+          "duration": "01:56:52",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Odd Lots": {
+      "total_episodes": 1089,
+      "episodes_with_books": 164,
+      "episodes_with_guests": 55,
+      "book_density_pct": 15.1,
+      "guest_density_pct": 5.1,
+      "avg_book_score": 0.19,
+      "top_episodes": [
+        {
+          "title": "Andrew Ross Sorkin on the Stock Market Crash That Shattered America",
+          "published": "Mon, 13 Oct 2025 08:00:00 +0000",
+          "duration": "2416",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of",
+            "wrote"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "What Ben McKenzie Learned When He Started Investigating Crypto",
+          "published": "Thu, 29 Jun 2023 08:00:00 +0000",
+          "duration": "3002",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "ook titled",
+            "writing"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "Why It's Still So Expensive to Build Homes in America",
+          "published": "Mon, 27 Oct 2025 08:00:00 +0000",
+          "duration": "2771",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "John Ganz on the Era When America Was Consumed by Panic With Corporate Japan",
+          "published": "Fri, 10 Oct 2025 08:00:00 +0000",
+          "duration": "2837",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Why the Price of Money Surged in the Last Six Years",
+          "published": "Thu, 09 Oct 2025 08:00:00 +0000",
+          "duration": "2575",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "ook titled"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Jim Cramer on the Retail Trading Revolution",
+          "published": "Mon, 22 Sep 2025 08:00:00 +0000",
+          "duration": "3234",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "The Chinese Chip Giant That Could Be Nvidia's Biggest Threat",
+          "published": "Mon, 23 Jun 2025 08:00:00 +0000",
+          "duration": "2383",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Why It's So Hard for Apple to Move Production from China to India",
+          "published": "Mon, 02 Jun 2025 08:00:00 +0000",
+          "duration": "2762",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Scott Bok on How Bankers Spread the Gospel of Capitalism",
+          "published": "Mon, 19 May 2025 08:00:00 +0000",
+          "duration": "3205",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Chris Hughes on How to Craft a Thriving Market",
+          "published": "Sat, 03 May 2025 08:00:00 +0000",
+          "duration": "3218",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        }
+      ]
+    },
+    "Burn Wild": {
+      "total_episodes": 10,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Fin vs History": {
+      "total_episodes": 92,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 13,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 14.1,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Fear&": {
+      "total_episodes": 171,
+      "episodes_with_books": 7,
+      "episodes_with_guests": 9,
+      "book_density_pct": 4.1,
+      "guest_density_pct": 5.3,
+      "avg_book_score": 0.04,
+      "top_episodes": [
+        {
+          "title": "FaZe HasanAbi Crashes Out | Fear&",
+          "published": "Mon, 16 Sep 2024 16:00:00 -0000",
+          "duration": "3565",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Squeezie Saves Our Paris Trip, AustinShow Breaks Hasanabi's Ribs & More.. | Fear&TwitchCon EU",
+          "published": "Mon, 10 Jul 2023 16:00:00 -0000",
+          "duration": "3986",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Hasanabi & Will Neff Give QTCinderella An INSANE Gift.. | Fear&Tokyo Disney Sea",
+          "published": "Mon, 03 Jul 2023 16:00:00 -0000",
+          "duration": "4287",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Aaron Rodgers HATES Hasan Piker..? (Ft. Wahlid Mohammad & Trey Richards)",
+          "published": "Tue, 23 May 2023 17:00:00 -0000",
+          "duration": "3741",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Hasanabi & Will Neff Spent A Morning With A Chess Master.. ft. GothamChess",
+          "published": "Tue, 09 May 2023 20:00:00 -0000",
+          "duration": "4013",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "We Spent a Day With Anthony Padilla.. | Fear& A Day",
+          "published": "Mon, 16 Jan 2023 17:00:00 -0000",
+          "duration": "3143",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Sapnap & Georgenotfound Give Hasan a Holiday Surprise | Fear&EthnicSanta",
+          "published": "Mon, 21 Nov 2022 18:00:00 -0000",
+          "duration": "3481",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Bad Bets": {
+      "total_episodes": 16,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Monday Morning Podcast": {
+      "total_episodes": 1336,
+      "episodes_with_books": 12,
+      "episodes_with_guests": 7,
+      "book_density_pct": 0.9,
+      "guest_density_pct": 0.5,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 5-11-23",
+          "published": "Thu, 11 May 2023 18:17:25 +0000",
+          "duration": "6938",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Comedian Carol Leifer 'How To Write A Funny Speech' | Thursday Afternoon Monday Morning Podcast 8-21-25",
+          "published": "Thu, 21 Aug 2025 18:56:50 +0000",
+          "duration": "7792",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 1-24-25",
+          "published": "Fri, 24 Jan 2025 18:35:38 +0000",
+          "duration": "9670",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 10-17-24",
+          "published": "Thu, 17 Oct 2024 21:17:17 +0000",
+          "duration": "9369",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Monday Morning Podcast 4-22-24",
+          "published": "Mon, 22 Apr 2024 17:05:48 +0000",
+          "duration": "3654",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 2-16-23",
+          "published": "Thu, 16 Feb 2023 18:02:31 +0000",
+          "duration": "7592",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 1-26-23",
+          "published": "Thu, 26 Jan 2023 19:36:33 +0000",
+          "duration": "9066",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 4-8-21",
+          "published": "Thu, 08 Apr 2021 20:50:00 +0000",
+          "duration": "7447",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Monday Morning Podcast 3-22-17",
+          "published": "Wed, 22 Mar 2017 09:12:11 +0000",
+          "duration": "2929",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Monday Morning Podcast 1-23-17",
+          "published": "Mon, 23 Jan 2017 18:43:38 +0000",
+          "duration": "3799",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "RHLSTP with Richard Herring": {
+      "total_episodes": 982,
+      "episodes_with_books": 177,
+      "episodes_with_guests": 4,
+      "book_density_pct": 18.0,
+      "guest_density_pct": 0.4,
+      "avg_book_score": 0.21,
+      "top_episodes": [
+        {
+          "title": "RHLSTP Book Club 158 - Andrew Michael Hurley",
+          "published": "Fri, 31 Oct 2025 03:57:00 GMT",
+          "duration": "45:26",
+          "guests": [],
+          "book_keywords": [
+            "latest book",
+            "writing",
+            "novel"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 141 - Chris Whitaker",
+          "published": "Fri, 06 Jun 2025 02:57:00 GMT",
+          "duration": "49:17",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "writing",
+            "novel"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 49 - Ashley Hickson-Lovence",
+          "published": "Fri, 31 Mar 2023 05:00:26 GMT",
+          "duration": "43:15",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel",
+            "iography"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 156 - Sebastian Faulks",
+          "published": "Fri, 17 Oct 2025 02:57:00 GMT",
+          "duration": "50:39",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 144 - David Nicholls",
+          "published": "Fri, 27 Jun 2025 02:57:00 GMT",
+          "duration": "49:35",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 133 - Anthony Shapland",
+          "published": "Fri, 28 Mar 2025 04:00:00 GMT",
+          "duration": "35:09",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 123 - Dr Benji Waterhouse",
+          "published": "Fri, 10 Jan 2025 04:00:00 GMT",
+          "duration": "43:49",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP 509 - Armando Iannucci",
+          "published": "Tue, 25 Jun 2024 03:00:32 GMT",
+          "duration": "1:04:44",
+          "guests": [],
+          "book_keywords": [
+            "published",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 93 - Sara Pascoe",
+          "published": "Fri, 19 Apr 2024 03:00:51 GMT",
+          "duration": "47:27",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 89 - CK McDonnell",
+          "published": "Fri, 22 Mar 2024 04:00:05 GMT",
+          "duration": "51:02",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        }
+      ]
+    },
+    "Jimquisition": {
+      "total_episodes": 524,
+      "episodes_with_books": 5,
+      "episodes_with_guests": 75,
+      "book_density_pct": 1.0,
+      "guest_density_pct": 14.3,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "Podquisition 471: Weather or Naught",
+          "published": "Thu, 11 Jan 2024 15:10:20 -0500",
+          "duration": "4319",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 430: A Champion In Our Midst",
+          "published": "Thu, 23 Mar 2023 12:34:32 -0400",
+          "duration": "5080",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 415: Strep Yourselves In",
+          "published": "Thu, 08 Dec 2022 12:00:34 -0500",
+          "duration": "6464",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 386: Someone’s Enzymatic Dalliance",
+          "published": "Thu, 19 May 2022 12:15:53 -0400",
+          "duration": "4121",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 299: Monopoly Cowboy",
+          "published": "Thu, 17 Sep 2020 11:57:37 -0400",
+          "duration": "3561",
+          "guests": [],
+          "book_keywords": [
+            "novel"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "The Always Sunny Podcast": {
+      "total_episodes": 78,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 6,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 7.7,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    "Multipolarity": {
+      "total_episodes": 151,
+      "episodes_with_books": 13,
+      "episodes_with_guests": 69,
+      "book_density_pct": 8.6,
+      "guest_density_pct": 45.7,
+      "avg_book_score": 0.11,
+      "top_episodes": [
+        {
+          "title": "Special Edition: \"This Is Not A Coup\" - feat. Malcom Kyeyune",
+          "published": "Thu, 25 Jul 2024 09:00:00 +0000",
+          "duration": "01:08:32",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "wrote",
+            "published",
+            "essay"
+          ],
+          "book_score": 3,
+          "has_guest": true
+        },
+        {
+          "title": "Multipolarity Dialogues: David Lloyd Dusenbury and China's Long Cultural History with the West",
+          "published": "Tue, 16 Sep 2025 09:00:00 +0000",
+          "duration": "50:10",
+          "guests": [
+            "Multipolarity Dialogues"
+          ],
+          "book_keywords": [
+            "author of",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": true
+        },
+        {
+          "title": "Twitter Spaces: The Realism Debates: Malcom Kyeyune (Tinkzorg) and Elbridge Colby",
+          "published": "Wed, 12 Jul 2023 09:00:00 +0000",
+          "duration": "01:37:30",
+          "guests": [
+            "Twitter Spaces"
+          ],
+          "book_keywords": [
+            "published",
+            "essay"
+          ],
+          "book_score": 2,
+          "has_guest": true
+        },
+        {
+          "title": "Multipolarity Dialogues: Policy Tensor on China's South-Eastern March",
+          "published": "Tue, 07 Oct 2025 09:00:00 +0000",
+          "duration": "01:26:11",
+          "guests": [
+            "Multipolarity Dialogues"
+          ],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Multipolarity Dialogues: Steve Hsu on China's Tech Frontiers",
+          "published": "Thu, 24 Jul 2025 09:00:00 +0000",
+          "duration": "56:53",
+          "guests": [
+            "Multipolarity Dialogues"
+          ],
+          "book_keywords": [
+            "novel"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: Pilkington Launches \"The Collapse Of Global Liberalism\"",
+          "published": "Thu, 05 Jun 2025 09:00:00 +0000",
+          "duration": "01:14:28",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Episode: Warwick Powell on How To Build A New Global Currency",
+          "published": "Thu, 31 Oct 2024 09:00:00 +0000",
+          "duration": "01:10:35",
+          "guests": [
+            "Special Episode"
+          ],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: Two Crystal Balls And The Death Of The Washington World Order",
+          "published": "Thu, 16 May 2024 09:00:00 +0000",
+          "duration": "01:03:46",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "essay"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: The Economic Consequences Of The War",
+          "published": "Thu, 21 Mar 2024 09:00:00 +0000",
+          "duration": "01:16:53",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: The Burger Theory Of History (feat. Malcom Kyeyune)",
+          "published": "Thu, 29 Feb 2024 09:00:00 +0000",
+          "duration": "01:11:03",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "essay"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    "A Podcast Of Unnecessary Detail": {
+      "total_episodes": 26,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 0,
+      "book_density_pct": 7.7,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.08,
+      "top_episodes": [
+        {
+          "title": "Curiouser and Curiouser",
+          "published": "Tue, 03 May 2022 06:30:00 GMT",
+          "duration": "42:29",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Rings",
+          "published": "Tue, 01 Sep 2020 08:12:09 GMT",
+          "duration": "31:30",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Blowback": {
+      "total_episodes": 69,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 4,
+      "book_density_pct": 1.4,
+      "guest_density_pct": 5.8,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "S1 Bonus - \"Our Man In Baghdad feat. Dahr Jamail\"",
+          "published": "Tue, 18 Aug 2020 04:00:00 -0000",
+          "duration": "3373",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    "Grounded with Louis Theroux": {
+      "total_episodes": 22,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 2,
+      "book_density_pct": 4.5,
+      "guest_density_pct": 9.1,
+      "avg_book_score": 0.05,
+      "top_episodes": [
+        {
+          "title": "13. Rylan Clark-Neal",
+          "published": "Mon, 14 Dec 2020 05:00:00 +0000",
+          "duration": "3786",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    }
+  },
+  "top_book_episodes": [
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.94 - NINA STIBBE",
+      "published": "Sat, 25 May 2019 17:48:31 GMT",
+      "duration": "1:17:37",
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "wrote",
+        "writing"
+      ],
+      "book_score": 3,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Andrew Ross Sorkin on the Stock Market Crash That Shattered America",
+      "published": "Mon, 13 Oct 2025 08:00:00 +0000",
+      "duration": "2416",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of",
+        "wrote"
+      ],
+      "book_score": 3,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "What Ben McKenzie Learned When He Started Investigating Crypto",
+      "published": "Thu, 29 Jun 2023 08:00:00 +0000",
+      "duration": "3002",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "ook titled",
+        "writing"
+      ],
+      "book_score": 3,
+      "has_guest": false
+    },
+    {
+      "podcast": "RHLSTP with Richard Herring",
+      "title": "RHLSTP Book Club 158 - Andrew Michael Hurley",
+      "published": "Fri, 31 Oct 2025 03:57:00 GMT",
+      "duration": "45:26",
+      "guests": [],
+      "book_keywords": [
+        "latest book",
+        "writing",
+        "novel"
+      ],
+      "book_score": 3,
+      "has_guest": false
+    },
+    {
+      "podcast": "RHLSTP with Richard Herring",
+      "title": "RHLSTP Book Club 141 - Chris Whitaker",
+      "published": "Fri, 06 Jun 2025 02:57:00 GMT",
+      "duration": "49:17",
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "writing",
+        "novel"
+      ],
+      "book_score": 3,
+      "has_guest": false
+    },
+    {
+      "podcast": "RHLSTP with Richard Herring",
+      "title": "RHLSTP Book Club 49 - Ashley Hickson-Lovence",
+      "published": "Fri, 31 Mar 2023 05:00:26 GMT",
+      "duration": "43:15",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "novel",
+        "iography"
+      ],
+      "book_score": 3,
+      "has_guest": false
+    },
+    {
+      "podcast": "Multipolarity",
+      "title": "Special Edition: \"This Is Not A Coup\" - feat. Malcom Kyeyune",
+      "published": "Thu, 25 Jul 2024 09:00:00 +0000",
+      "duration": "01:08:32",
+      "guests": [
+        "Special Edition"
+      ],
+      "book_keywords": [
+        "wrote",
+        "published",
+        "essay"
+      ],
+      "book_score": 3,
+      "has_guest": true
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Episode 748 - On this day",
+      "published": "Thu, 31 Aug 2023 11:28:43 GMT",
+      "duration": "53:33",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "writing"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Arsenal Women Arsecast Episode 47: Suitable for Females",
+      "published": "Tue, 19 Jul 2022 13:28:49 GMT",
+      "duration": "58:03",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "writing"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Arsecast Extra Episode 305 - 11.09.2019",
+      "published": "Wed, 11 Sep 2019 09:12:48 GMT",
+      "duration": "1:23:08",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "iography"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Episode 518 - Worse than Omsk",
+      "published": "Fri, 22 Mar 2019 04:01:00 GMT",
+      "duration": "50:22",
+      "guests": [],
+      "book_keywords": [
+        "ook called",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Episode 505 - Listen",
+      "published": "Fri, 14 Dec 2018 09:26:18 GMT",
+      "duration": "1:12:47",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Episode 500 - El Maestro",
+      "published": "Tue, 06 Nov 2018 14:50:37 GMT",
+      "duration": "54:00",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Episode 489 - Alan Smith",
+      "published": "Fri, 24 Aug 2018 05:02:21 GMT",
+      "duration": "51:02",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "wrote"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Episode 436 - Billionaires",
+      "published": "Tue, 29 Aug 2017 04:30:00 GMT",
+      "duration": "46:08",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "title": "Arseblog Arsecast Episode 322 - Oh danny boy ...",
+      "published": "Fri, 12 Sep 2014 00:00:00 GMT",
+      "duration": "51:11",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Joshua Citarella",
+      "title": "Doomscroll 25: Francis Fukuyama",
+      "published": "Thu, 17 Jul 2025 10:00:18 +0000",
+      "duration": "00:55:28",
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "wrote"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Joshua Citarella",
+      "title": "Doomscroll 23: Catherine Liu",
+      "published": "Mon, 16 Jun 2025 10:00:23 +0000",
+      "duration": "01:20:07",
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "published"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Joshua Citarella",
+      "title": "Doomscroll 22: Jen Pan",
+      "published": "Mon, 02 Jun 2025 10:00:56 +0000",
+      "duration": "01:03:16",
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "writing"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Joshua Citarella",
+      "title": "Doomscroll 18: Ezra Klein",
+      "published": "Sun, 06 Apr 2025 00:00:00 +0000",
+      "duration": "00:55:29",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "ook titled"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Joshua Citarella",
+      "title": "Amber A’Lee Frost on Dirtbag",
+      "published": "Tue, 19 Dec 2023 12:00:07 +0000",
+      "duration": "01:01:59",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "writing"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Things Fell Apart",
+      "title": "S2. Ep 7: You’ll Own Nothing and You’ll Be Happy",
+      "published": "Tue, 09 Jan 2024 06:00:00 +0000",
+      "duration": "2004",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "novel"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Say Why To Drugs",
+      "title": "Talking with your family about drugs - Live at Latitude 2021",
+      "published": "Thu, 09 Dec 2021 00:05:28 GMT",
+      "duration": "31:34",
+      "guests": [],
+      "book_keywords": [
+        "ook called",
+        "published"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "TRUE ANON TRUTH FEED",
+      "title": "Episode 447: Smiley’s Person",
+      "published": "Mon, 31 Mar 2025 13:19:07 GMT",
+      "duration": null,
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "TRUE ANON TRUTH FEED",
+      "title": "Episode 246: Deep State 102",
+      "published": "Wed, 24 Aug 2022 21:40:34 GMT",
+      "duration": null,
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "published"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "The Louis Theroux Podcast",
+      "title": "S1 EP6: Jennette McCurdy discusses child stardom and her memoir 'I'm Glad My Mom Died'",
+      "published": "Mon, 10 Jul 2023 23:01:00 -0000",
+      "duration": "4460",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "memoir"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.230 - COLM TÓIBÍN",
+      "published": "Fri, 25 Oct 2024 23:00:51 GMT",
+      "duration": "1:07:52",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "novel"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.213 - WILL SHARPE",
+      "published": "Tue, 14 Nov 2023 15:37:42 GMT",
+      "duration": "1:11:20",
+      "guests": [],
+      "book_keywords": [
+        "memoir",
+        "essay"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.190 - IAN McEWAN",
+      "published": "Sun, 16 Oct 2022 21:36:45 GMT",
+      "duration": "1:29:09",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "novel"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.184 - LOUIS THEROUX",
+      "published": "Sun, 17 Jul 2022 12:58:47 GMT",
+      "duration": "1:23:27",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "memoir"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.171 - CALLOUT FOR XMAS PODCAST SUBMISSIONS AND A BIT OF FRAN LEBOWITZ",
+      "published": "Tue, 07 Dec 2021 16:45:10 GMT",
+      "duration": "34:35",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "published"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.164 - COLSON WHITEHEAD",
+      "published": "Sun, 10 Oct 2021 16:17:31 GMT",
+      "duration": "1:05:03",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "novel"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.102 - PHILIP PULLMAN",
+      "published": "Fri, 04 Oct 2019 18:39:47 GMT",
+      "duration": "1:21:58",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "iography"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "title": "EP.4 - JON RONSON",
+      "published": "Wed, 07 Oct 2015 15:06:41 GMT",
+      "duration": "58:42",
+      "guests": [],
+      "book_keywords": [
+        "latest book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Chapo Trap House",
+      "title": "947 - Laugh Now, Cry Later feat. Larry Charles (6/30/25)",
+      "published": "Tue, 01 Jul 2025 06:28:10 +0000",
+      "duration": "01:35:37",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "writing"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Chapo Trap House",
+      "title": "706 - Arrival (2/13/23)",
+      "published": "Tue, 14 Feb 2023 03:39:35 +0000",
+      "duration": "01:14:49",
+      "guests": [],
+      "book_keywords": [
+        "writing",
+        "essay"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Chapo Trap House",
+      "title": "Bonus: Exit Through the Gas Chamber feat. Jerry Stahl",
+      "published": "Wed, 24 Aug 2022 23:42:06 +0000",
+      "duration": "00:50:54",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "memoir"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Why It's Still So Expensive to Build Homes in America",
+      "published": "Mon, 27 Oct 2025 08:00:00 +0000",
+      "duration": "2771",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "John Ganz on the Era When America Was Consumed by Panic With Corporate Japan",
+      "published": "Fri, 10 Oct 2025 08:00:00 +0000",
+      "duration": "2837",
+      "guests": [],
+      "book_keywords": [
+        "author of",
+        "novel"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Why the Price of Money Surged in the Last Six Years",
+      "published": "Thu, 09 Oct 2025 08:00:00 +0000",
+      "duration": "2575",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "ook titled"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Jim Cramer on the Retail Trading Revolution",
+      "published": "Mon, 22 Sep 2025 08:00:00 +0000",
+      "duration": "3234",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "The Chinese Chip Giant That Could Be Nvidia's Biggest Threat",
+      "published": "Mon, 23 Jun 2025 08:00:00 +0000",
+      "duration": "2383",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Why It's So Hard for Apple to Move Production from China to India",
+      "published": "Mon, 02 Jun 2025 08:00:00 +0000",
+      "duration": "2762",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Scott Bok on How Bankers Spread the Gospel of Capitalism",
+      "published": "Mon, 19 May 2025 08:00:00 +0000",
+      "duration": "3205",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Chris Hughes on How to Craft a Thriving Market",
+      "published": "Sat, 03 May 2025 08:00:00 +0000",
+      "duration": "3218",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "published"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Ray Dalio on the Coming Crisis in US Debt",
+      "published": "Mon, 03 Mar 2025 09:00:00 +0000",
+      "duration": "3373",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "What It Felt Like When Everyone Was Hopeful, Happy, and Rich",
+      "published": "Mon, 06 Jan 2025 09:00:00 +0000",
+      "duration": "2623",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Lots More on the Coming 20-Year Storm with Viktor Shvets",
+      "published": "Fri, 29 Nov 2024 09:00:00 +0000",
+      "duration": "1670",
+      "guests": [
+        "Viktor Shvets"
+      ],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": true
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "The Theory That Explains Why Everyone Went Crazy",
+      "published": "Mon, 01 Jul 2024 08:00:00 +0000",
+      "duration": "3014",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    },
+    {
+      "podcast": "Odd Lots",
+      "title": "Are We Doing Decarbonization Totally the Wrong Way?",
+      "published": "Wed, 29 May 2024 08:00:00 +0000",
+      "duration": "2813",
+      "guests": [],
+      "book_keywords": [
+        "new book",
+        "author of"
+      ],
+      "book_score": 2,
+      "has_guest": false
+    }
+  ],
+  "podcasts_by_book_density": [
+    {
+      "podcast": "Joshua Citarella",
+      "total_episodes": 138,
+      "episodes_with_books": 26,
+      "episodes_with_guests": 26,
+      "book_density_pct": 18.8,
+      "guest_density_pct": 18.8,
+      "avg_book_score": 0.22,
+      "top_episodes": [
+        {
+          "title": "Doomscroll 25: Francis Fukuyama",
+          "published": "Thu, 17 Jul 2025 10:00:18 +0000",
+          "duration": "00:55:28",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "wrote"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 23: Catherine Liu",
+          "published": "Mon, 16 Jun 2025 10:00:23 +0000",
+          "duration": "01:20:07",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 22: Jen Pan",
+          "published": "Mon, 02 Jun 2025 10:00:56 +0000",
+          "duration": "01:03:16",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 18: Ezra Klein",
+          "published": "Sun, 06 Apr 2025 00:00:00 +0000",
+          "duration": "00:55:29",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "ook titled"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Amber A’Lee Frost on Dirtbag",
+          "published": "Tue, 19 Dec 2023 12:00:07 +0000",
+          "duration": "01:01:59",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 33: Taylor Lorenz",
+          "published": "Mon, 20 Oct 2025 10:00:44 +0000",
+          "duration": "00:57:34",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 24: Hasan Piker",
+          "published": "Tue, 01 Jul 2025 10:00:49 +0000",
+          "duration": "01:08:27",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 22.5: Jen Pan",
+          "published": "Mon, 09 Jun 2025 10:00:25 +0000",
+          "duration": "00:11:46",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 20: Vivek Chibber",
+          "published": "Mon, 05 May 2025 10:30:12 +0000",
+          "duration": "01:10:56",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Doomscroll 15: Quinn Slobodian",
+          "published": "Wed, 19 Feb 2025 00:00:00 +0000",
+          "duration": "01:16:36",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "RHLSTP with Richard Herring",
+      "total_episodes": 982,
+      "episodes_with_books": 177,
+      "episodes_with_guests": 4,
+      "book_density_pct": 18.0,
+      "guest_density_pct": 0.4,
+      "avg_book_score": 0.21,
+      "top_episodes": [
+        {
+          "title": "RHLSTP Book Club 158 - Andrew Michael Hurley",
+          "published": "Fri, 31 Oct 2025 03:57:00 GMT",
+          "duration": "45:26",
+          "guests": [],
+          "book_keywords": [
+            "latest book",
+            "writing",
+            "novel"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 141 - Chris Whitaker",
+          "published": "Fri, 06 Jun 2025 02:57:00 GMT",
+          "duration": "49:17",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "writing",
+            "novel"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 49 - Ashley Hickson-Lovence",
+          "published": "Fri, 31 Mar 2023 05:00:26 GMT",
+          "duration": "43:15",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel",
+            "iography"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 156 - Sebastian Faulks",
+          "published": "Fri, 17 Oct 2025 02:57:00 GMT",
+          "duration": "50:39",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 144 - David Nicholls",
+          "published": "Fri, 27 Jun 2025 02:57:00 GMT",
+          "duration": "49:35",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 133 - Anthony Shapland",
+          "published": "Fri, 28 Mar 2025 04:00:00 GMT",
+          "duration": "35:09",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 123 - Dr Benji Waterhouse",
+          "published": "Fri, 10 Jan 2025 04:00:00 GMT",
+          "duration": "43:49",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP 509 - Armando Iannucci",
+          "published": "Tue, 25 Jun 2024 03:00:32 GMT",
+          "duration": "1:04:44",
+          "guests": [],
+          "book_keywords": [
+            "published",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 93 - Sara Pascoe",
+          "published": "Fri, 19 Apr 2024 03:00:51 GMT",
+          "duration": "47:27",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "RHLSTP Book Club 89 - CK McDonnell",
+          "published": "Fri, 22 Mar 2024 04:00:05 GMT",
+          "duration": "51:02",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "THE ADAM BUXTON PODCAST",
+      "total_episodes": 266,
+      "episodes_with_books": 41,
+      "episodes_with_guests": 0,
+      "book_density_pct": 15.4,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.19,
+      "top_episodes": [
+        {
+          "title": "EP.94 - NINA STIBBE",
+          "published": "Sat, 25 May 2019 17:48:31 GMT",
+          "duration": "1:17:37",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "wrote",
+            "writing"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "EP.230 - COLM TÓIBÍN",
+          "published": "Fri, 25 Oct 2024 23:00:51 GMT",
+          "duration": "1:07:52",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.213 - WILL SHARPE",
+          "published": "Tue, 14 Nov 2023 15:37:42 GMT",
+          "duration": "1:11:20",
+          "guests": [],
+          "book_keywords": [
+            "memoir",
+            "essay"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.190 - IAN McEWAN",
+          "published": "Sun, 16 Oct 2022 21:36:45 GMT",
+          "duration": "1:29:09",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.184 - LOUIS THEROUX",
+          "published": "Sun, 17 Jul 2022 12:58:47 GMT",
+          "duration": "1:23:27",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.171 - CALLOUT FOR XMAS PODCAST SUBMISSIONS AND A BIT OF FRAN LEBOWITZ",
+          "published": "Tue, 07 Dec 2021 16:45:10 GMT",
+          "duration": "34:35",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.164 - COLSON WHITEHEAD",
+          "published": "Sun, 10 Oct 2021 16:17:31 GMT",
+          "duration": "1:05:03",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.102 - PHILIP PULLMAN",
+          "published": "Fri, 04 Oct 2019 18:39:47 GMT",
+          "duration": "1:21:58",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "iography"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.4 - JON RONSON",
+          "published": "Wed, 07 Oct 2015 15:06:41 GMT",
+          "duration": "58:42",
+          "guests": [],
+          "book_keywords": [
+            "latest book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "EP.263 - ZADIE SMITH",
+          "published": "Sun, 02 Nov 2025 09:00:00 GMT",
+          "duration": "1:14:07",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Odd Lots",
+      "total_episodes": 1089,
+      "episodes_with_books": 164,
+      "episodes_with_guests": 55,
+      "book_density_pct": 15.1,
+      "guest_density_pct": 5.1,
+      "avg_book_score": 0.19,
+      "top_episodes": [
+        {
+          "title": "Andrew Ross Sorkin on the Stock Market Crash That Shattered America",
+          "published": "Mon, 13 Oct 2025 08:00:00 +0000",
+          "duration": "2416",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of",
+            "wrote"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "What Ben McKenzie Learned When He Started Investigating Crypto",
+          "published": "Thu, 29 Jun 2023 08:00:00 +0000",
+          "duration": "3002",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "ook titled",
+            "writing"
+          ],
+          "book_score": 3,
+          "has_guest": false
+        },
+        {
+          "title": "Why It's Still So Expensive to Build Homes in America",
+          "published": "Mon, 27 Oct 2025 08:00:00 +0000",
+          "duration": "2771",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "John Ganz on the Era When America Was Consumed by Panic With Corporate Japan",
+          "published": "Fri, 10 Oct 2025 08:00:00 +0000",
+          "duration": "2837",
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Why the Price of Money Surged in the Last Six Years",
+          "published": "Thu, 09 Oct 2025 08:00:00 +0000",
+          "duration": "2575",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "ook titled"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Jim Cramer on the Retail Trading Revolution",
+          "published": "Mon, 22 Sep 2025 08:00:00 +0000",
+          "duration": "3234",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "The Chinese Chip Giant That Could Be Nvidia's Biggest Threat",
+          "published": "Mon, 23 Jun 2025 08:00:00 +0000",
+          "duration": "2383",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Why It's So Hard for Apple to Move Production from China to India",
+          "published": "Mon, 02 Jun 2025 08:00:00 +0000",
+          "duration": "2762",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Scott Bok on How Bankers Spread the Gospel of Capitalism",
+          "published": "Mon, 19 May 2025 08:00:00 +0000",
+          "duration": "3205",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Chris Hughes on How to Craft a Thriving Market",
+          "published": "Sat, 03 May 2025 08:00:00 +0000",
+          "duration": "3218",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "I Like Films with Jonathan Ross",
+      "total_episodes": 16,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 0,
+      "book_density_pct": 12.5,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.12,
+      "top_episodes": [
+        {
+          "title": "13: Roddy Doyle",
+          "published": "Tue, 12 Mar 2019 16:14:00 +0000",
+          "duration": "2190",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "8: M. Night Shyamalan",
+          "published": "Wed, 23 Jan 2019 17:24:53 +0000",
+          "duration": "2040",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "The Louis Theroux Podcast",
+      "total_episodes": 51,
+      "episodes_with_books": 5,
+      "episodes_with_guests": 12,
+      "book_density_pct": 9.8,
+      "guest_density_pct": 23.5,
+      "avg_book_score": 0.12,
+      "top_episodes": [
+        {
+          "title": "S1 EP6: Jennette McCurdy discusses child stardom and her memoir 'I'm Glad My Mom Died'",
+          "published": "Mon, 10 Jul 2023 23:01:00 -0000",
+          "duration": "4460",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "S5 EP3: Bryan Johnson discusses life-changing psychedelics, superintelligence, and night-time erections",
+          "published": "Mon, 19 May 2025 23:26:00 -0000",
+          "duration": "5143",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "S2 EP8: Sharon Stone discusses facing off with Robert Mugabe, lifting weights with Arnold Schwarzenegger, and her calamitous dating app experiences.",
+          "published": "Tue, 12 Mar 2024 00:00:00 -0000",
+          "duration": "4863",
+          "guests": [
+            "Robert Mugabe",
+            "Arnold Schwarzenegger"
+          ],
+          "book_keywords": [
+            "memoir"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "S1 EP9: Ben Elton on ‘cancel culture’, his early stand up career, and writing for Blackadder and The Young Ones",
+          "published": "Mon, 31 Jul 2023 23:01:00 -0000",
+          "duration": "4716",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "S1 EP5: Nick Cave on his remarkable career, religion and dealing with grief",
+          "published": "Mon, 03 Jul 2023 23:01:00 -0000",
+          "duration": "5006",
+          "guests": [],
+          "book_keywords": [
+            "iography"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Multipolarity",
+      "total_episodes": 151,
+      "episodes_with_books": 13,
+      "episodes_with_guests": 69,
+      "book_density_pct": 8.6,
+      "guest_density_pct": 45.7,
+      "avg_book_score": 0.11,
+      "top_episodes": [
+        {
+          "title": "Special Edition: \"This Is Not A Coup\" - feat. Malcom Kyeyune",
+          "published": "Thu, 25 Jul 2024 09:00:00 +0000",
+          "duration": "01:08:32",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "wrote",
+            "published",
+            "essay"
+          ],
+          "book_score": 3,
+          "has_guest": true
+        },
+        {
+          "title": "Multipolarity Dialogues: David Lloyd Dusenbury and China's Long Cultural History with the West",
+          "published": "Tue, 16 Sep 2025 09:00:00 +0000",
+          "duration": "50:10",
+          "guests": [
+            "Multipolarity Dialogues"
+          ],
+          "book_keywords": [
+            "author of",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": true
+        },
+        {
+          "title": "Twitter Spaces: The Realism Debates: Malcom Kyeyune (Tinkzorg) and Elbridge Colby",
+          "published": "Wed, 12 Jul 2023 09:00:00 +0000",
+          "duration": "01:37:30",
+          "guests": [
+            "Twitter Spaces"
+          ],
+          "book_keywords": [
+            "published",
+            "essay"
+          ],
+          "book_score": 2,
+          "has_guest": true
+        },
+        {
+          "title": "Multipolarity Dialogues: Policy Tensor on China's South-Eastern March",
+          "published": "Tue, 07 Oct 2025 09:00:00 +0000",
+          "duration": "01:26:11",
+          "guests": [
+            "Multipolarity Dialogues"
+          ],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Multipolarity Dialogues: Steve Hsu on China's Tech Frontiers",
+          "published": "Thu, 24 Jul 2025 09:00:00 +0000",
+          "duration": "56:53",
+          "guests": [
+            "Multipolarity Dialogues"
+          ],
+          "book_keywords": [
+            "novel"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: Pilkington Launches \"The Collapse Of Global Liberalism\"",
+          "published": "Thu, 05 Jun 2025 09:00:00 +0000",
+          "duration": "01:14:28",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Episode: Warwick Powell on How To Build A New Global Currency",
+          "published": "Thu, 31 Oct 2024 09:00:00 +0000",
+          "duration": "01:10:35",
+          "guests": [
+            "Special Episode"
+          ],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: Two Crystal Balls And The Death Of The Washington World Order",
+          "published": "Thu, 16 May 2024 09:00:00 +0000",
+          "duration": "01:03:46",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "essay"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: The Economic Consequences Of The War",
+          "published": "Thu, 21 Mar 2024 09:00:00 +0000",
+          "duration": "01:16:53",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        },
+        {
+          "title": "Special Edition: The Burger Theory Of History (feat. Malcom Kyeyune)",
+          "published": "Thu, 29 Feb 2024 09:00:00 +0000",
+          "duration": "01:11:03",
+          "guests": [
+            "Special Edition"
+          ],
+          "book_keywords": [
+            "essay"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    {
+      "podcast": "The Loud And Quiet Podcast",
+      "total_episodes": 12,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 4,
+      "book_density_pct": 8.3,
+      "guest_density_pct": 33.3,
+      "avg_book_score": 0.08,
+      "top_episodes": [
+        {
+          "title": "Finn Wolfhard: a life of music before and after Stranger Things",
+          "published": "Mon, 26 May 2025 23:00:51 GMT",
+          "duration": "1324",
+          "guests": [
+            "Finn Wolfhard"
+          ],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    {
+      "podcast": "A Podcast Of Unnecessary Detail",
+      "total_episodes": 26,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 0,
+      "book_density_pct": 7.7,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.08,
+      "top_episodes": [
+        {
+          "title": "Curiouser and Curiouser",
+          "published": "Tue, 03 May 2022 06:30:00 GMT",
+          "duration": "42:29",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Rings",
+          "published": "Tue, 01 Sep 2020 08:12:09 GMT",
+          "duration": "31:30",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Chapo Trap House",
+      "total_episodes": 500,
+      "episodes_with_books": 37,
+      "episodes_with_guests": 15,
+      "book_density_pct": 7.4,
+      "guest_density_pct": 3.0,
+      "avg_book_score": 0.08,
+      "top_episodes": [
+        {
+          "title": "947 - Laugh Now, Cry Later feat. Larry Charles (6/30/25)",
+          "published": "Tue, 01 Jul 2025 06:28:10 +0000",
+          "duration": "01:35:37",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "706 - Arrival (2/13/23)",
+          "published": "Tue, 14 Feb 2023 03:39:35 +0000",
+          "duration": "01:14:49",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "essay"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Bonus: Exit Through the Gas Chamber feat. Jerry Stahl",
+          "published": "Wed, 24 Aug 2022 23:42:06 +0000",
+          "duration": "00:50:54",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "memoir"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "977 - The Next Day feat. Ryan Grim and Jeremy Scahill",
+          "published": "Tue, 14 Oct 2025 01:00:13 +0000",
+          "duration": "01:28:05",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "973 - Cross on the Moon feat. Brendan James (9/29/25)",
+          "published": "Tue, 30 Sep 2025 01:00:25 +0000",
+          "duration": "01:37:40",
+          "guests": [],
+          "book_keywords": [
+            "novel"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "961 - The Dogs of War feat. Seth Harp (8/18/25)",
+          "published": "Tue, 19 Aug 2025 05:16:45 +0000",
+          "duration": "01:33:17",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "957 - Democracy Soon! feat. Osita Nwanevu (8/4/25)",
+          "published": "Tue, 05 Aug 2025 05:44:33 +0000",
+          "duration": "01:02:47",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "927 - Americas, The Beautiful feat. Greg Grandin (4/21/25)",
+          "published": "Tue, 22 Apr 2025 06:51:20 +0000",
+          "duration": "01:25:39",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Bonus: Ukrainian Politics Deep Dive feat. Peter Korotaev",
+          "published": "Wed, 02 Apr 2025 00:00:00 +0000",
+          "duration": "02:02:01",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "BONUS: Y2K feat. Colette Shade",
+          "published": "Tue, 14 Jan 2025 20:43:16 +0000",
+          "duration": "01:06:02",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Talking Politics: HISTORY OF IDEAS",
+      "total_episodes": 27,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 1,
+      "book_density_pct": 7.4,
+      "guest_density_pct": 3.7,
+      "avg_book_score": 0.07,
+      "top_episodes": [
+        {
+          "title": "Luxemburg on Revolution",
+          "published": "Tue, 09 Mar 2021 08:45:11 GMT",
+          "duration": "46:00",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Bentham on Pleasure",
+          "published": "Tue, 09 Feb 2021 08:30:00 GMT",
+          "duration": "47:35",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "5CAST w/ Andrew Callaghan",
+      "total_episodes": 16,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 10,
+      "book_density_pct": 6.2,
+      "guest_density_pct": 62.5,
+      "avg_book_score": 0.06,
+      "top_episodes": [
+        {
+          "title": "Hallucinogen Persisting Perception Disorder - 5CAST with Andrew Callaghan (#4) feat. Dr. Wesley Ryan",
+          "published": "Sun, 04 May 2025 12:00:00 -0700",
+          "duration": "4096",
+          "guests": [
+            "Hallucinogen Persisting Perception Disorder",
+            "Andrew Callaghan"
+          ],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    {
+      "podcast": "TRUE ANON TRUTH FEED",
+      "total_episodes": 557,
+      "episodes_with_books": 30,
+      "episodes_with_guests": 4,
+      "book_density_pct": 5.4,
+      "guest_density_pct": 0.7,
+      "avg_book_score": 0.06,
+      "top_episodes": [
+        {
+          "title": "Episode 447: Smiley’s Person",
+          "published": "Mon, 31 Mar 2025 13:19:07 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 246: Deep State 102",
+          "published": "Wed, 24 Aug 2022 21:40:34 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "author of",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 496: Money for Nothing",
+          "published": "Mon, 13 Oct 2025 15:04:34 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Seth Harp & The Fort Bragg Cartel [LIVE]",
+          "published": "Fri, 15 Aug 2025 21:10:03 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 459: Opus D.E.I.",
+          "published": "Thu, 15 May 2025 13:46:26 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 456: Multilevel Marketing Madness",
+          "published": "Mon, 05 May 2025 12:08:22 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 453: Luddite Power Manifesto",
+          "published": "Mon, 21 Apr 2025 13:25:13 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 397: The Hunt for Frank Wisner",
+          "published": "Thu, 01 Aug 2024 14:24:23 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 349: State of Play",
+          "published": "Mon, 29 Jan 2024 15:31:59 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 348: Life Stinks",
+          "published": "Thu, 25 Jan 2024 14:39:12 GMT",
+          "duration": null,
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Things Fell Apart",
+      "total_episodes": 22,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 3,
+      "book_density_pct": 4.5,
+      "guest_density_pct": 13.6,
+      "avg_book_score": 0.09,
+      "top_episodes": [
+        {
+          "title": "S2. Ep 7: You’ll Own Nothing and You’ll Be Happy",
+          "published": "Tue, 09 Jan 2024 06:00:00 +0000",
+          "duration": "2004",
+          "guests": [],
+          "book_keywords": [
+            "writing",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Grounded with Louis Theroux",
+      "total_episodes": 22,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 2,
+      "book_density_pct": 4.5,
+      "guest_density_pct": 9.1,
+      "avg_book_score": 0.05,
+      "top_episodes": [
+        {
+          "title": "13. Rylan Clark-Neal",
+          "published": "Mon, 14 Dec 2020 05:00:00 +0000",
+          "duration": "3786",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Fear&",
+      "total_episodes": 171,
+      "episodes_with_books": 7,
+      "episodes_with_guests": 9,
+      "book_density_pct": 4.1,
+      "guest_density_pct": 5.3,
+      "avg_book_score": 0.04,
+      "top_episodes": [
+        {
+          "title": "FaZe HasanAbi Crashes Out | Fear&",
+          "published": "Mon, 16 Sep 2024 16:00:00 -0000",
+          "duration": "3565",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Squeezie Saves Our Paris Trip, AustinShow Breaks Hasanabi's Ribs & More.. | Fear&TwitchCon EU",
+          "published": "Mon, 10 Jul 2023 16:00:00 -0000",
+          "duration": "3986",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Hasanabi & Will Neff Give QTCinderella An INSANE Gift.. | Fear&Tokyo Disney Sea",
+          "published": "Mon, 03 Jul 2023 16:00:00 -0000",
+          "duration": "4287",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Aaron Rodgers HATES Hasan Piker..? (Ft. Wahlid Mohammad & Trey Richards)",
+          "published": "Tue, 23 May 2023 17:00:00 -0000",
+          "duration": "3741",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Hasanabi & Will Neff Spent A Morning With A Chess Master.. ft. GothamChess",
+          "published": "Tue, 09 May 2023 20:00:00 -0000",
+          "duration": "4013",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "We Spent a Day With Anthony Padilla.. | Fear& A Day",
+          "published": "Mon, 16 Jan 2023 17:00:00 -0000",
+          "duration": "3143",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Sapnap & Georgenotfound Give Hasan a Holiday Surprise | Fear&EthnicSanta",
+          "published": "Mon, 21 Nov 2022 18:00:00 -0000",
+          "duration": "3481",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Arseblog Arsecast, The Arsenal Podcast",
+      "total_episodes": 1563,
+      "episodes_with_books": 63,
+      "episodes_with_guests": 16,
+      "book_density_pct": 4.0,
+      "guest_density_pct": 1.0,
+      "avg_book_score": 0.05,
+      "top_episodes": [
+        {
+          "title": "Episode 748 - On this day",
+          "published": "Thu, 31 Aug 2023 11:28:43 GMT",
+          "duration": "53:33",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Arsenal Women Arsecast Episode 47: Suitable for Females",
+          "published": "Tue, 19 Jul 2022 13:28:49 GMT",
+          "duration": "58:03",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "writing"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Arsecast Extra Episode 305 - 11.09.2019",
+          "published": "Wed, 11 Sep 2019 09:12:48 GMT",
+          "duration": "1:23:08",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "iography"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 518 - Worse than Omsk",
+          "published": "Fri, 22 Mar 2019 04:01:00 GMT",
+          "duration": "50:22",
+          "guests": [],
+          "book_keywords": [
+            "ook called",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 505 - Listen",
+          "published": "Fri, 14 Dec 2018 09:26:18 GMT",
+          "duration": "1:12:47",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 500 - El Maestro",
+          "published": "Tue, 06 Nov 2018 14:50:37 GMT",
+          "duration": "54:00",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 489 - Alan Smith",
+          "published": "Fri, 24 Aug 2018 05:02:21 GMT",
+          "duration": "51:02",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "wrote"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 436 - Billionaires",
+          "published": "Tue, 29 Aug 2017 04:30:00 GMT",
+          "duration": "46:08",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Arseblog Arsecast Episode 322 - Oh danny boy ...",
+          "published": "Fri, 12 Sep 2014 00:00:00 GMT",
+          "duration": "51:11",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "author of"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 852 - The corner flag dancer",
+          "published": "Wed, 05 Nov 2025 12:29:31 GMT",
+          "duration": "59:43",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Say Why To Drugs",
+      "total_episodes": 50,
+      "episodes_with_books": 2,
+      "episodes_with_guests": 10,
+      "book_density_pct": 4.0,
+      "guest_density_pct": 20.0,
+      "avg_book_score": 0.06,
+      "top_episodes": [
+        {
+          "title": "Talking with your family about drugs - Live at Latitude 2021",
+          "published": "Thu, 09 Dec 2021 00:05:28 GMT",
+          "duration": "31:34",
+          "guests": [],
+          "book_keywords": [
+            "ook called",
+            "published"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Mescaline, with Mike Jay",
+          "published": "Wed, 05 Jun 2019 23:01:00 GMT",
+          "duration": "23:24",
+          "guests": [
+            "Mike Jay"
+          ],
+          "book_keywords": [
+            "ook called"
+          ],
+          "book_score": 1,
+          "has_guest": true
+        }
+      ]
+    },
+    {
+      "podcast": "Cyber Hack",
+      "total_episodes": 28,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 4,
+      "book_density_pct": 3.6,
+      "guest_density_pct": 14.3,
+      "avg_book_score": 0.04,
+      "top_episodes": [
+        {
+          "title": "The Lazarus Heist S2: 6. False flags",
+          "published": "Sun, 30 Apr 2023 23:30:00 +0000",
+          "duration": "2246",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Blowback",
+      "total_episodes": 69,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 4,
+      "book_density_pct": 1.4,
+      "guest_density_pct": 5.8,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "S1 Bonus - \"Our Man In Baghdad feat. Dahr Jamail\"",
+          "published": "Tue, 18 Aug 2020 04:00:00 -0000",
+          "duration": "3373",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Cox n' Crendor Show",
+      "total_episodes": 485,
+      "episodes_with_books": 6,
+      "episodes_with_guests": 0,
+      "book_density_pct": 1.2,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "pisode 469 - The Robot Leagues Begin!",
+          "published": "Mon, 30 Jun 2025 00:40:08 +0000",
+          "duration": "01:26:16",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 453 - Into the Garfieldverse",
+          "published": "Sun, 19 Jan 2025 00:00:00 +0000",
+          "duration": "01:32:36",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 417 - Neal the Seal",
+          "published": "Sun, 03 Mar 2024 21:59:06 +0000",
+          "duration": "01:11:37",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 125 - Crab People Politics",
+          "published": "Sun, 16 Oct 2016 18:14:48 +0000",
+          "duration": "00:44:42",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Episode 107 - Worlds Greatest Italian Restaurant",
+          "published": "Wed, 15 Jul 2015 00:04:59 +0000",
+          "duration": "00:37:29",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Cox N' Crendor Beta: Wednesday, January 9th 2013",
+          "published": "Wed, 09 Jan 2013 18:01:29 +0000",
+          "duration": "00:30:25",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Jimquisition",
+      "total_episodes": 524,
+      "episodes_with_books": 5,
+      "episodes_with_guests": 75,
+      "book_density_pct": 1.0,
+      "guest_density_pct": 14.3,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "Podquisition 471: Weather or Naught",
+          "published": "Thu, 11 Jan 2024 15:10:20 -0500",
+          "duration": "4319",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 430: A Champion In Our Midst",
+          "published": "Thu, 23 Mar 2023 12:34:32 -0400",
+          "duration": "5080",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 415: Strep Yourselves In",
+          "published": "Thu, 08 Dec 2022 12:00:34 -0500",
+          "duration": "6464",
+          "guests": [],
+          "book_keywords": [
+            "published"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 386: Someone’s Enzymatic Dalliance",
+          "published": "Thu, 19 May 2022 12:15:53 -0400",
+          "duration": "4121",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Podquisition 299: Monopoly Cowboy",
+          "published": "Thu, 17 Sep 2020 11:57:37 -0400",
+          "duration": "3561",
+          "guests": [],
+          "book_keywords": [
+            "novel"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Hello Internet",
+      "total_episodes": 100,
+      "episodes_with_books": 1,
+      "episodes_with_guests": 1,
+      "book_density_pct": 1.0,
+      "guest_density_pct": 1.0,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "H.I. #66: A Classic Episode",
+          "published": "Mon, 18 Jul 2016 23:19:02 +0000",
+          "duration": "01:56:52",
+          "guests": [],
+          "book_keywords": [
+            "wrote"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "Monday Morning Podcast",
+      "total_episodes": 1336,
+      "episodes_with_books": 12,
+      "episodes_with_guests": 7,
+      "book_density_pct": 0.9,
+      "guest_density_pct": 0.5,
+      "avg_book_score": 0.01,
+      "top_episodes": [
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 5-11-23",
+          "published": "Thu, 11 May 2023 18:17:25 +0000",
+          "duration": "6938",
+          "guests": [],
+          "book_keywords": [
+            "new book",
+            "novel"
+          ],
+          "book_score": 2,
+          "has_guest": false
+        },
+        {
+          "title": "Comedian Carol Leifer 'How To Write A Funny Speech' | Thursday Afternoon Monday Morning Podcast 8-21-25",
+          "published": "Thu, 21 Aug 2025 18:56:50 +0000",
+          "duration": "7792",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 1-24-25",
+          "published": "Fri, 24 Jan 2025 18:35:38 +0000",
+          "duration": "9670",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 10-17-24",
+          "published": "Thu, 17 Oct 2024 21:17:17 +0000",
+          "duration": "9369",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Monday Morning Podcast 4-22-24",
+          "published": "Mon, 22 Apr 2024 17:05:48 +0000",
+          "duration": "3654",
+          "guests": [],
+          "book_keywords": [
+            "author of"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 2-16-23",
+          "published": "Thu, 16 Feb 2023 18:02:31 +0000",
+          "duration": "7592",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 1-26-23",
+          "published": "Thu, 26 Jan 2023 19:36:33 +0000",
+          "duration": "9066",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Thursday Afternoon Monday Morning Podcast 4-8-21",
+          "published": "Thu, 08 Apr 2021 20:50:00 +0000",
+          "duration": "7447",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Monday Morning Podcast 3-22-17",
+          "published": "Wed, 22 Mar 2017 09:12:11 +0000",
+          "duration": "2929",
+          "guests": [],
+          "book_keywords": [
+            "new book"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        },
+        {
+          "title": "Monday Morning Podcast 1-23-17",
+          "published": "Mon, 23 Jan 2017 18:43:38 +0000",
+          "duration": "3799",
+          "guests": [],
+          "book_keywords": [
+            "writing"
+          ],
+          "book_score": 1,
+          "has_guest": false
+        }
+      ]
+    },
+    {
+      "podcast": "The Yard",
+      "total_episodes": 228,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 9,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 3.9,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Stephen Fry's 7 Deadly Sins",
+      "total_episodes": 17,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "The Adam Friedland Show Podcast",
+      "total_episodes": 457,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 81,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 17.7,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "The Missing Cryptoqueen",
+      "total_episodes": 13,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Couples Therapy with Candice and Casey",
+      "total_episodes": 20,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 1,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 5.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "My Friend Podcast with Paige Elkington with Ruby Caster",
+      "total_episodes": 18,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 8,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 44.4,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Sad Boyz",
+      "total_episodes": 196,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 1,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.5,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Block Stars with David Schwartz",
+      "total_episodes": 28,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 6,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 21.4,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Witch",
+      "total_episodes": 14,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Burn Wild",
+      "total_episodes": 10,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Fin vs History",
+      "total_episodes": 92,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 13,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 14.1,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "Bad Bets",
+      "total_episodes": 16,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 0,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 0.0,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    },
+    {
+      "podcast": "The Always Sunny Podcast",
+      "total_episodes": 78,
+      "episodes_with_books": 0,
+      "episodes_with_guests": 6,
+      "book_density_pct": 0.0,
+      "guest_density_pct": 7.7,
+      "avg_book_score": 0.0,
+      "top_episodes": []
+    }
+  ]
+}

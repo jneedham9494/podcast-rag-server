@@ -1,0 +1,82 @@
+# Audio and transcript data (large files, can be re-downloaded/regenerated)
+episodes/
+transcripts/
+
+# Vector database (can be rebuilt from transcripts)
+rag_db_v2/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Secrets and credentials
+.env
+.env.*
+patreon_cookies.txt
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.manual_download_progress.txt
+
+# Large data files that should be managed separately
+*.mp3
+*.m4a
+*.wav
+*.ogg
+
+# Keep metadata but ignore archive data
+data/archive/
