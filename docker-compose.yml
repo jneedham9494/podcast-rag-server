@@ -1,0 +1,65 @@
+version: '3.8'
+
+services:
+  rag-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: podcast-rag-server
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persistent storage
+      - ./rag_db_v2:/app/rag_db_v2
+      - ./data:/app/data:ro
+      - ./logs:/app/logs
+    environment:
+      # Security (override in production)
+      - RAG_API_KEYS=${RAG_API_KEYS:-}
+      - RAG_REQUIRE_AUTH=${RAG_REQUIRE_AUTH:-false}
+      - RAG_CORS_ORIGINS=${RAG_CORS_ORIGINS:-http://localhost:3000}
+      - RAG_RATE_LIMIT=${RAG_RATE_LIMIT:-100}
+      # Database path
+      - RAG_DB_PATH=/app/rag_db_v2
+    healthcheck:
+      test: ["CMD", "python", "-c", "import httpx; httpx.get('http://localhost:8000/health', timeout=5)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    restart: unless-stopped
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 1G
+
+  # Optional: Development service with hot reload
+  rag-server-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: podcast-rag-server-dev
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./rag_db_v2:/app/rag_db_v2
+      - ./data:/app/data:ro
+      - ./logs:/app/logs
+      # Mount scripts for hot reload
+      - ./scripts:/app/scripts:ro
+    environment:
+      - RAG_API_KEYS=
+      - RAG_REQUIRE_AUTH=false
+      - RAG_CORS_ORIGINS=*
+      - RAG_RATE_LIMIT=1000
+      - RAG_DB_PATH=/app/rag_db_v2
+    profiles:
+      - dev
+    restart: "no"
+
+networks:
+  default:
+    name: podcast-network

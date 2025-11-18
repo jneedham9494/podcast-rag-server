@@ -250,13 +250,57 @@ class StatsResponse(BaseModel):
 # API Endpoints
 @app.get("/", tags=["Health"])
 async def root() -> Dict[str, str]:
-    """Health check endpoint"""
+    """Root endpoint with basic info."""
     return {
         "status": "online",
         "service": "Podcast Transcript RAG API",
         "version": "1.0.0",
         "docs": "/docs"
     }
+
+
+@app.get("/health", tags=["Health"])
+async def health_check() -> Dict[str, Any]:
+    """
+    Health check endpoint for Docker and load balancers.
+
+    Verifies database and embedding model are initialized.
+    """
+    health_status: Dict[str, Any] = {
+        "status": "healthy",
+        "checks": {}
+    }
+
+    # Check database client
+    if db_client is None:
+        health_status["status"] = "unhealthy"
+        health_status["checks"]["database"] = "not initialized"
+    else:
+        health_status["checks"]["database"] = "ok"
+
+    # Check collection
+    if collection is None:
+        health_status["status"] = "unhealthy"
+        health_status["checks"]["collection"] = "not initialized"
+    else:
+        try:
+            count = collection.count()
+            health_status["checks"]["collection"] = f"ok ({count} documents)"
+        except Exception as e:
+            health_status["status"] = "unhealthy"
+            health_status["checks"]["collection"] = f"error: {str(e)}"
+
+    # Check embedding model
+    if embedding_model is None:
+        health_status["status"] = "unhealthy"
+        health_status["checks"]["embedding_model"] = "not initialized"
+    else:
+        health_status["checks"]["embedding_model"] = "ok"
+
+    if health_status["status"] == "unhealthy":
+        raise HTTPException(status_code=503, detail=health_status)
+
+    return health_status
 
 
 @app.get("/stats", response_model=StatsResponse, tags=["Info"])

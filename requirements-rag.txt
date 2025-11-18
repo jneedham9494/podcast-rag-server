@@ -1,0 +1,19 @@
+# RAG Server dependencies
+# Install with: pip install -r requirements-rag.txt
+
+# Web framework
+fastapi>=0.100
+uvicorn[standard]>=0.22
+pydantic>=2.0
+
+# Vector database
+chromadb>=0.4
+
+# Embeddings
+sentence-transformers>=2.2
+
+# Logging
+loguru>=0.7
+
+# HTTP client (for health checks)
+httpx>=0.25

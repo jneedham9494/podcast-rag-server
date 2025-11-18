@@ -1,0 +1,67 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Logs (mount as volume instead)
+logs/
+
+# Data directories (mount as volumes)
+episodes/
+transcripts/
+podcast_metadata/
+data/
+rag_db_v2/
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Test files
+tests/
+
+# Specification files
+.specify/
+.claude/
+
+# Cookies and secrets
+*.txt
+!requirements*.txt
