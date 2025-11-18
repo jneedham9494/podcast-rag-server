@@ -264,8 +264,8 @@ def main():
                                 try:
                                     with open(log_file, 'w') as f:
                                         process = subprocess.Popen(
-                                            ['python3', 'enrich_transcript.py', str(txt_file.absolute())],
-                                            cwd=project_root / 'scripts',
+                                            ['python3', '-m', 'scripts.enrichment.main', str(txt_file.absolute())],
+                                            cwd=project_root,
                                             stdout=f,
                                             stderr=subprocess.STDOUT,
                                             stdin=subprocess.DEVNULL
