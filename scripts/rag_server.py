@@ -4,21 +4,22 @@ RAG Server for Podcast Transcripts
 Provides semantic search and retrieval endpoints via FastAPI
 """
 
+from contextlib import asynccontextmanager
+from typing import AsyncGenerator, Dict, List, Optional, Any
+
 from fastapi import FastAPI, HTTPException, Depends, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import APIKeyHeader
 from pydantic import BaseModel, Field
-from typing import List, Optional, Dict, Any
 import chromadb
+from chromadb.api.models.Collection import Collection
 from chromadb.config import Settings
 from sentence_transformers import SentenceTransformer
 from pathlib import Path
 import uvicorn
 import os
 import time
-import secrets
 from collections import defaultdict
-from datetime import datetime
 from loguru import logger
 
 # Configure logging
@@ -41,11 +42,68 @@ REQUIRE_AUTH = os.environ.get("RAG_REQUIRE_AUTH", "false").lower() == "true"
 # Rate limiting storage
 rate_limit_storage: Dict[str, List[float]] = defaultdict(list)
 
-# Initialize FastAPI app
+# Global state with type hints
+db_client: Optional[chromadb.ClientAPI] = None
+collection: Optional[Collection] = None
+embedding_model: Optional[SentenceTransformer] = None
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
+    """Manage application lifespan: startup and shutdown."""
+    global db_client, collection, embedding_model
+
+    # Startup
+    db_path = Path("rag_db_v2")
+
+    if not db_path.exists():
+        raise RuntimeError(
+            f"ChromaDB not found at {db_path}. "
+            "Please run build_rag_index_v2.py first to create the index."
+        )
+
+    print("Initializing ChromaDB client...")
+    db_client = chromadb.PersistentClient(
+        path=str(db_path),
+        settings=Settings(anonymized_telemetry=False)
+    )
+
+    print("Loading collection...")
+    try:
+        collection = db_client.get_collection(name="podcast_transcripts")
+        print(f"Collection loaded: {collection.count()} documents")
+    except Exception as e:
+        raise RuntimeError(f"Failed to load collection 'podcast_transcripts': {e}")
+
+    print("Loading embedding model...")
+    embedding_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    print(f"Model loaded. Embedding dimension: {embedding_model.get_sentence_embedding_dimension()}")
+
+    print("\n" + "=" * 80)
+    print("RAG SERVER READY")
+    print("=" * 80)
+    print(f"Collection: {collection.count()} documents indexed")
+    print(f"API Docs: http://localhost:8000/docs")
+    print(f"Auth Required: {REQUIRE_AUTH}")
+    print(f"API Keys Configured: {len(API_KEYS)}")
+    print(f"CORS Origins: {CORS_ORIGINS}")
+    print(f"Rate Limit: {RATE_LIMIT_REQUESTS} req/min")
+    print("=" * 80 + "\n")
+
+    logger.info(f"Server started - Auth: {REQUIRE_AUTH}, Keys: {len(API_KEYS)}, Rate: {RATE_LIMIT_REQUESTS}/min")
+
+    yield  # Server runs here
+
+    # Shutdown
+    print("Shutting down RAG server...")
+
+
+# Initialize FastAPI app with lifespan
 app = FastAPI(
     title="Podcast Transcript RAG API",
     description="Semantic search and retrieval for podcast transcripts",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan
 )
 
 # Add CORS middleware with configurable origins
@@ -56,11 +114,6 @@ app.add_middleware(
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
-
-# Global state
-db_client = None
-collection = None
-embedding_model = None
 
 # API Key security
 api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
@@ -151,7 +204,12 @@ async def verify_api_key(
     return None
 
 
-def log_request(request: Request, api_key: Optional[str], endpoint: str, response_time_ms: float):
+def log_request(
+    request: Request,
+    api_key: Optional[str],
+    endpoint: str,
+    response_time_ms: float
+) -> None:
     """Log API request for audit trail."""
     client_ip = request.client.host if request.client else "unknown"
     key_info = mask_api_key(api_key) if api_key else "no-key"
@@ -189,60 +247,9 @@ class StatsResponse(BaseModel):
     embedding_dimension: int
 
 
-# Startup/Shutdown Events
-@app.on_event("startup")
-async def startup_event():
-    """Initialize ChromaDB and embedding model on startup"""
-    global db_client, collection, embedding_model
-
-    db_path = Path("rag_db_v2")
-
-    if not db_path.exists():
-        raise RuntimeError(
-            f"ChromaDB not found at {db_path}. "
-            "Please run build_rag_index_v2.py first to create the index."
-        )
-
-    print("Initializing ChromaDB client...")
-    db_client = chromadb.PersistentClient(
-        path=str(db_path),
-        settings=Settings(anonymized_telemetry=False)
-    )
-
-    print("Loading collection...")
-    try:
-        collection = db_client.get_collection(name="podcast_transcripts")
-        print(f"Collection loaded: {collection.count()} documents")
-    except Exception as e:
-        raise RuntimeError(f"Failed to load collection 'podcast_transcripts': {e}")
-
-    print("Loading embedding model...")
-    embedding_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
-    print(f"Model loaded. Embedding dimension: {embedding_model.get_sentence_embedding_dimension()}")
-
-    print("\n" + "="*80)
-    print("RAG SERVER READY")
-    print("="*80)
-    print(f"Collection: {collection.count()} documents indexed")
-    print(f"API Docs: http://localhost:8000/docs")
-    print(f"Auth Required: {REQUIRE_AUTH}")
-    print(f"API Keys Configured: {len(API_KEYS)}")
-    print(f"CORS Origins: {CORS_ORIGINS}")
-    print(f"Rate Limit: {RATE_LIMIT_REQUESTS} req/min")
-    print("="*80 + "\n")
-
-    logger.info(f"Server started - Auth: {REQUIRE_AUTH}, Keys: {len(API_KEYS)}, Rate: {RATE_LIMIT_REQUESTS}/min")
-
-
-@app.on_event("shutdown")
-async def shutdown_event():
-    """Cleanup on shutdown"""
-    print("Shutting down RAG server...")
-
-
 # API Endpoints
 @app.get("/", tags=["Health"])
-async def root():
+async def root() -> Dict[str, str]:
     """Health check endpoint"""
     return {
         "status": "online",
@@ -353,7 +360,7 @@ async def search(
 async def list_podcasts(
     request: Request,
     api_key: Optional[str] = Depends(verify_api_key)
-):
+) -> Dict[str, Any]:
     """List all available podcast names in the collection"""
     start_time = time.time()
 
@@ -388,7 +395,7 @@ async def get_podcast_info(
     podcast_name: str,
     request: Request,
     api_key: Optional[str] = Depends(verify_api_key)
-):
+) -> Dict[str, Any]:
     """Get information about a specific podcast"""
     start_time = time.time()
 
@@ -429,7 +436,7 @@ async def get_podcast_info(
 
 
 # Main entry point
-def main():
+def main() -> None:
     """Run the server"""
     print("\nStarting RAG server...")
     print("This will be available at: http://localhost:8000")
